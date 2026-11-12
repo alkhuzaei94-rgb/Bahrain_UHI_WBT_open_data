@@ -1,0 +1,9 @@
+earthengine-api==1.7.35
+geopandas==1.0.1
+shapely==2.0.7
+rasterio==1.4.3
+numpy==2.2.6
+pandas==2.2.3
+scipy==1.15.2
+openpyxl==3.1.5
+requests==2.34.2

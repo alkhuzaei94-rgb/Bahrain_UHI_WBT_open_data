@@ -1,0 +1,5 @@
+site,roads_c,pavements_c,walls_c,air_temperature_c,relative_humidity_pct,wbt_c
+Inland high density,45.16,42.035,40.08,35.86,47.187,26.744
+Inland low density,43.09,42.8,41.875,34.733,57.343,27.686
+Coastal high density,37.57,36.9,36.3,34.5,69.233,29.652
+Coastal low density,40.88,39.845,38.555,28.478,77.55,25.285
