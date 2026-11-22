@@ -1,10 +1,13 @@
 cff-version: 1.2.0
 message: "If you use this data or code, please cite the article and this repository."
-title: "Nighttime urban heat and humid-heat stress in Bahrain: data and code"
+title: "Multi-Scale Investigation of Nighttime Urban Heat and Humid-heat Stress in a Hot Desert Climate"
 type: dataset
 authors:
-  - family-names: Alkhuzaei
+  - family-names: Al-Khuzaei
     given-names: Manaf
+  - family-names: Mestarehi
+    given-names: Motaz
+    affiliation: "University of Bahrain"
 repository-code: "https://github.com/alkhuzaei94-rgb/Bahrain_UHI_WBT_open_data"
 doi: 10.5281/zenodo.24436242
 version: 1.0.0
@@ -29,5 +32,8 @@ preferred-citation:
   title: "Multi-Scale Investigation of Nighttime Urban Heat and Humid-heat Stress in a Hot Desert Climate"
   journal: "Sustainable Cities and Society"
   authors:
-    - family-names: Alkhuzaei
+    - family-names: Al-Khuzaei
       given-names: Manaf
+    - family-names: Mestarehi
+      given-names: Motaz
+      affiliation: "University of Bahrain"
