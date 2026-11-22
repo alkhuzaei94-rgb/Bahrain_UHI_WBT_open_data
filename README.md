@@ -1,5 +1,7 @@
 # Nighttime urban heat and humid-heat stress in Bahrain: data and code
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24436242.svg)](https://doi.org/10.5281/zenodo.24436242)
+
 Data and code for the article "Multi-Scale Investigation of Nighttime Urban Heat and Humid-heat Stress in a Hot Desert
 Climate" (Sustainable Cities and Society). Temperatures are in °C, areas in km².
 
@@ -45,8 +47,12 @@ Tested with Python 3.13.
 
 ## Citation
 
-Please cite the article above and this repository. Citation metadata is in `CITATION.cff`
-(GitHub's "Cite this repository" button).
+Please cite the article above and this repository. The repository is archived on Zenodo:
+
+- All versions: https://doi.org/10.5281/zenodo.24436242
+- Version 1.0.0: https://doi.org/10.5281/zenodo.24436243
+
+Citation metadata is in `CITATION.cff` (GitHub's "Cite this repository" button).
 
 ## Licence
 

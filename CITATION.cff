@@ -6,6 +6,16 @@ authors:
   - family-names: Alkhuzaei
     given-names: Manaf
 repository-code: "https://github.com/alkhuzaei94-rgb/Bahrain_UHI_WBT_open_data"
+doi: 10.5281/zenodo.24436242
+version: 1.0.0
+date-released: 2026-11-22
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24436242
+    description: "Concept DOI, resolves to the latest version"
+  - type: doi
+    value: 10.5281/zenodo.24436243
+    description: "Version 1.0.0"
 license: CC-BY-4.0
 keywords:
   - urban heat island
