@@ -43,6 +43,11 @@ python code/field_sites.py
 
 Tested with Python 3.13.
 
+## Citation
+
+Please cite the article above and this repository. Citation metadata is in `CITATION.cff`
+(GitHub's "Cite this repository" button).
+
 ## Licence
 
-CC BY 4.0
+[CC BY 4.0](LICENSE)
